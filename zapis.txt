@@ -1,0 +1,4 @@
+I love Python.
+I love creating new games
+New text
+I love creating apps that can run a browser.
